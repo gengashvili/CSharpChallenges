@@ -1,5 +1,4 @@
 ﻿using CalculatorChallenge;
-using System.Diagnostics;
 
 class Program
 {
