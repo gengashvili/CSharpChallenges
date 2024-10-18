@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CalculatorChallenge
+﻿namespace CalculatorChallenge
 {
     public class Calculator
     {
